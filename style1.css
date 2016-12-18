@@ -1,0 +1,10 @@
+#myBox {
+    height: 100px;
+    width: 100px;
+    background-color: grey;
+    margin: auto;
+}
+
+#clickCount:hover {
+    color: red;
+}
